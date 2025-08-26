@@ -1,0 +1,98 @@
+NATUS IMPERARE
+
+Kami membuat website bertema universitas yang responsif dengan hyperlink yang terconnect banyak, menggunakan template tema ystudy di wordpress untuk jadi dasar canvas kemudian membangun diatasnya (karena templatenya rada busuk jadi harus banyak manual but we made it work)
+
+---
+
+Fitur
+- Desain estetik
+- Navigasi menu custom
+- Dukungan widget
+- Warna & tipografi dapat dikustomisasi
+- Kompatibel dengan plugin populer (Elementor, dsb.)
+- Struktur bersih dan mudah dikembangkan
+
+---
+
+Instalasi
+1. Download atau clone repository ini:
+   ```bash
+   git clone https://github.com/tayayarhymes/git-web-lombanatusimperare.git
+````
+
+2. Pindahkan folder `ystudy-education` ke:
+
+   ```
+   wp-content/themes/
+   ```
+3. Login ke WordPress Dashboard
+   → Masuk ke Appearance lalu ke Themes
+   → Aktifkan theme YStudy Education.
+
+---
+
+Struktur Folder
+
+```
+ystudy-education/
+├── assets/
+├── inc/
+├── languages/
+├── theme-parts/
+├── tutor/loop/
+│
+├── 404.php
+├── archive.php
+├── comments.php
+├── footer.php
+├── functions.php
+├── header.php
+├── index.php
+├── page.php
+├── readme.txt
+├── screenshot.png
+├── search.php
+├── sidebar.php
+├── single.php
+└── style.css
+
+---
+
+## 🤝 Kontribusi
+
+1. Fork repo ini
+2. Buat branch baru:
+
+   ```bash
+   git checkout -b fitur-xyz
+   ```
+3. Commit perubahan:
+
+   ```bash
+   git commit -m "Tambah fitur xyz"
+   ```
+4. Push ke branch:
+
+   ```bash
+   git push origin fitur-xyz
+   ```
+5. Buat Pull Request
+
+---
+
+Lisensi
+
+Proyek ini dilisensikan di bawah Ujangacengs License.
+Silakan gunakan, modifikasi, dan distribusikan dengan bebas.
+
+---
+
+Developer
+
+* Nama: Athaya Cahya S
+* GitHub: tayayarhymes
+* Email: tayayaoriginal@gmail.com
+
+```
+
+```
